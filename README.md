@@ -2,7 +2,8 @@
 
 ## second level heading
 
-$\sigma$
+woohoo
+
 testing
 
 
